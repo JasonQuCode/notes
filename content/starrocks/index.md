@@ -11,4 +11,5 @@ tags:
 ## 笔记列表
 
 - [[12-month-kernel-plan|内核工程师 12 个月成长计划]] — 整体路线图
-- *(以后陆续添加:MV 改写源码、Pipeline 引擎、存储引擎...)*
+- [[mv-rewrite-troubleshooting|MV 改写失败排障实录]] — View Delta 改写的真实坑
+- *(以后陆续添加:Pipeline 引擎、存储引擎...)*
